@@ -9,7 +9,7 @@ This project builds and compares DNN, tuned DNN, and CNN models for classifying 
 - Achieved 99.1% validation accuracy with CNN
 
 ## Tools & Libraries
-- R, Keras, `tfruns`, `ggplot2`, etc.
+- R, `keras`, `tfruns`, `ggplot2`, etc.
 
 ## Structure
 - `activity_model.qmd` – Quarto source for training & evaluation
