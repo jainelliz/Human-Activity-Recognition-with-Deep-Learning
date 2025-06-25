@@ -14,4 +14,5 @@ This project builds and compares DNN, tuned DNN, and CNN models for classifying 
 ## Structure
 - `activity_model.qmd` – Quarto source for training & evaluation
 - `activity_model.pdf` – Rendered report
-- `data_activity_recognition.RData` – Sensor input data 
+- `data_activity_recognition.RData` – Sensor input data
+-  `Model2_tfruns.R` – Separate R script for hyperparameter tuning using `tfruns`
